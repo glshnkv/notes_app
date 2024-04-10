@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602273602297",
+    "project_id": "notes-app-6c0a3",
+    "storage_bucket": "notes-app-6c0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602273602297:android:df86ab1f69b208af2de028",
+        "android_client_info": {
+          "package_name": "com.notelix.app.utility.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxqjm7qjxyzuty7V6wKHPnfmfjM4BM0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
