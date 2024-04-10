@@ -45,6 +45,10 @@ flutter:
   assets:
     - assets/images/
     - assets/images/elements/
+    - assets/images/tab-icons/
+    - assets/images/settings/
+    - assets/images/news/
+    - assets/images/notes/
 
   fonts:
     - family: Roboto
